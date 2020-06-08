@@ -1,6 +1,6 @@
-# flutterfluttershare
+# FoodLovers
 
-A new Flutter application.
+It's a social flutter application that offer the user to share food photos & recipes with his followers.
 
 ## Getting Started
 
